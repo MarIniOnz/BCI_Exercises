@@ -1,2 +1,2 @@
-# BCI_Exercises
+# BCI Exercises
 Brain Computer Interfaces exercises.
